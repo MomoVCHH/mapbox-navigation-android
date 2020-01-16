@@ -15,7 +15,6 @@ import com.mapbox.navigation.utils.exceptions.NavigationException
 import com.mapbox.navigation.utils.tests.MainCoroutineRule
 import com.mapbox.navigation.utils.tests.runBlockingTest
 import com.mapbox.navigator.RouterResult
-import io.mockk.called
 import io.mockk.every
 import io.mockk.mockk
 import io.mockk.slot
